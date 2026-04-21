@@ -1,0 +1,16 @@
+{
+  "name": "Dawn Brew",
+  "short_name": "Dawn Brew",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0A1628",
+  "theme_color": "#D97706",
+  "description": "A hand-roasted coffee experience coming to Karnal in Summer 2026.",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "100x100",
+      "type": "image/svg+xml"
+    }
+  ]
+}
